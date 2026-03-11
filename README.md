@@ -5,7 +5,7 @@
 - Air quality and weather conditions
 - Rent price forecast (on planning)
 
-🗣️🇪🇸 Currently I am learning Spanish so mucho gusto!
+🗣️🇪🇸 Currently I am learning Spanish on Duolingo so mucho gusto!
 
 🎾 If you happen to be a tennis player, drop me a quick message for a quick match!
 
