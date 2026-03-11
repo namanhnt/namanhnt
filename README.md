@@ -1,7 +1,11 @@
 ## Hello World, I'm Nam👋
 
-📊 I have always seen data analytics as a fascinating intersection of science and art
-<!--
+📊 I have always seen data analytics as a fascinating intersection of science and art throughout my career. I build data projects using Python to analyse real-world data, such as:
+- Foreign Direct Investment and economic growth
+- Air quality and environmental data
+- Rent price forecast (on planning)
+
+
 **namanhnt/namanhnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
