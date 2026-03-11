@@ -1,8 +1,8 @@
 ## Hello World, I'm Nam👋
 
-📊 I have always seen data analytics as a fascinating intersection of science and art throughout my career. I build data projects using Python to analyse real-world data, such as:
+📊 I have always seen data analytics as a fascinating intersection of science and art throughout my career. I build data projects using Python to analyse real-world data:
 - Foreign Direct Investment and economic growth
-- Air quality and environmental data
+- Air quality and weather
 - Rent price forecast (on planning)
 
 
