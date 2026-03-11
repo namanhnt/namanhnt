@@ -9,6 +9,6 @@
 
 🎾 If you are also a tennis player, drop me a quick message for a quick match!
 
-📫 I am best reached by Linkedin or [email](namanhngth@gmail.com)
+📫 I am best reached by [LinkedIn](https://www.linkedin.com/in/namanhnt/) or email namanhngth@gmail.com
 
 Espero hablar pronto!
