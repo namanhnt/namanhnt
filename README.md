@@ -5,10 +5,10 @@
 - Air quality and weather conditions
 - Rent price forecast (on planning)
 
-🗣️🇪🇸 Currently I am learning Spanish so mucho gusto!
+🗣️🇪🇸 Currently I am learning Spanish so espero hablar pronto!
 
 🎾 If you happen to be a tennis player, drop me a quick message for a quick match!
 
 📫 I am best reached by [LinkedIn](https://www.linkedin.com/in/namanhnt/) or email namanhngth@gmail.com
 
-Espero hablar pronto!
+Mucho gusto!
