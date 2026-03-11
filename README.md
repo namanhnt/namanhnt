@@ -1,5 +1,6 @@
-## Hello World 👋
+## Hello World, I'm Nam👋
 
+📊 I have always seen data analytics as a fascinating intersection of science and art
 <!--
 **namanhnt/namanhnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
